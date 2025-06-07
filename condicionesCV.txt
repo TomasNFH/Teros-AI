@@ -1,0 +1,8 @@
+Casco de seguridad colocado: True
+Gafas de seguridad con protección lateral (EN 166): True
+Guantes de protección resistentes a productos químicos (EN ISO 374-1): True
+Ropa de trabajo cerrada o traje de protección química (EN 14605 o EN ISO 13982): True
+Botas de protección resistentes a productos químicos: True
+No está comiendo, bebiendo ni fumando: True
+Zona de trabajo señalizada y restringida: True
+Ropa de trabajo en buen estado (no contaminada ni dañada): True
