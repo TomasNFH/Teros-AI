@@ -1,5 +1,6 @@
 tarea = 'descarga de camiones a ibc'
 sustancia = 'soda cáustica'
+condiciones_entorno = 'Es un lugar cerrado, el lugar tiene ventilación, zona de descarga claramente señalizada, hay duchas de emergencia y lava ojos accesibles y funcionando cerca del área de trabajo.'
 
 def funcion_de_riesgo(tarea, sustancia, condiciones_entorno):
 
